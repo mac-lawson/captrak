@@ -1,2 +1,2 @@
 # captrak
-CAPTrak
+CAPTrak is an Emergency Services resource tracking system
